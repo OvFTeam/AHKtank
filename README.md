@@ -13,7 +13,7 @@
 
 ### *- Hiện tại, các script có sẵn trong dự án bao gồm:*
 
-1. VNPAY Auto Refresh: tự động làm mới trang thanh toán của VNPAY khi đang chờ thanh toán. **Bạn chỉ cần nhấn chuột 4 trên thân chuột để bắt đầu quá trình làm mới trang thanh toán.**
+1. [VNPAY Auto Refresh](https://github.com/tgbiztank/AHKtank/blob/main/vnpay_auto_refresh.exe?raw=true): tự động làm mới trang thanh toán của VNPAY khi đang chờ thanh toán. **Bạn chỉ cần nhấn chuột 4 trên thân chuột để bắt đầu quá trình làm mới trang thanh toán.**
 2. ...
 
 > Chúng tôi đang tiếp tục phát triển thêm các script mới để đáp ứng nhu cầu ngày càng tăng của người dùng.

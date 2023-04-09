@@ -38,7 +38,7 @@ XButton1::
                 Run, https://doitac.vnpay.vn/
                 Run, https://github.com/tgbiztank/AHKtank/blob/master/vnpay_auto_refresh.ahk
                 Sleep 500
-                Send ^!{Tab}
+                Send ^+{Tab}
             }
             BlockInput, Off
         }

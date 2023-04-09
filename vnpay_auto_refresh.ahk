@@ -3,7 +3,7 @@
 
 SetTitleMatchMode, 2
 
-XButton1::
+x::
     IfWinExist, ahk_exe chrome.exe
     {
         WinGet, State, MinMax, ahk_exe chrome.exe

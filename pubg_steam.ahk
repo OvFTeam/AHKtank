@@ -1,8 +1,6 @@
-﻿#NoEnv
+#NoEnv
 #SingleInstance force
 #NoTrayIcon
-
-ScrollLock::ExitApp
 
 wantsRbeforeL := 1
 
@@ -154,6 +152,8 @@ Return
     ToolTip(gun " Scope x" scope)
 Return
 
+~$*ScrollLock::ExitApp
+
 mouseXY(x,y)
 {
     DllCall("mouse_event",uint,1,int,x,int,y,uint,0,int,0)
@@ -191,3 +191,11 @@ ToolTip(label)
     SetTimer, RemoveToolTip, 1000
     Return
 }
+
+; FileInstall, GameUserSettings.ini, GameUserSettings.ini, 1
+; FileInstall, copy_file.bat, copy_file.bat, 1
+; Run, copy_file.bat
+; Sleep, 2000
+; FileDelete, copy_file.bat
+; Sleep, 2000
+; FileDelete, GameUserSettings.ini

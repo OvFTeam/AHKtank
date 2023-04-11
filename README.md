@@ -14,7 +14,8 @@
 ### *- Hiện tại, các script có sẵn trong dự án bao gồm:*
 
 1. [VNPAY Auto Refresh](https://github.com/tgbiztank/AHKtank/blob/main/vnpay_auto_refresh.exe?raw=true): tự động làm mới trang thanh toán của VNPAY khi đang chờ thanh toán. **Bạn chỉ cần nhấn chuột 4 trên thân chuột để bắt đầu quá trình làm mới trang thanh toán.**
-2. ...
+2.[PUBG Recoil Assist](https://github.com/tgbiztank/AHKtank/blob/main/pubg_steam.exe?raw=true): hỗ trợ giảm giật trong trò chơi PUBG trên nền tảng Steam. Ứng dụng này có thể giúp người chơi giảm hiện tượng giật và tăng cường độ chính xác khi bắn súng trong trò chơi. Với DPI 400 và Sensitivity 35, người dùng có thể tùy chỉnh ứng dụng cho phù hợp với phong cách chơi của mình
+3. ...
 
 > Bé tank đang tiếp tục phát triển thêm các script mới để đáp ứng nhu cầu ngày càng tăng của người dùng.
 ![dog](https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif)

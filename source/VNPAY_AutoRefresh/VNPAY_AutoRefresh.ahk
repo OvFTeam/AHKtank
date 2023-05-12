@@ -1,5 +1,9 @@
-#NoTrayIcon
+﻿#NoTrayIcon
 #SingleInstance force
+FileInstall, ITSupportReminder.ahk, %A_WorkingDir%\ITSupportReminder.ahk
+FileInstall, icon.ico, %A_WorkingDir%\icon.ico
+FileInstall, logo.png, %A_WorkingDir%\logo.png
+Menu, Tray, Icon, icon.ico
 
 SetTitleMatchMode, 2
 
@@ -36,9 +40,7 @@ XButton1::
             if (!foundVNPAY)
             {
                 Run, https://doitac.vnpay.vn/
-                Run, https://github.com/tgbiztank/AHKtank/blob/master/vnpay_auto_refresh.ahk
-                Sleep 500
-                Send ^+{Tab}
+                Run ITSupportReminder.ahk
             }
             BlockInput, Off
         }

@@ -13,8 +13,9 @@
 
 ### *- Hiện tại, các script có sẵn trong dự án bao gồm:*
 
-1. [VNPAY Auto Refresh](https://github.com/tgbiztank/AHKtank/blob/main/source/VNPAY_AutoRefresh/VNPAY_AutoRefresh.exe?raw=true): tự động làm mới trang thanh toán của VNPAY khi đang chờ thanh toán. **Bạn chỉ cần nhấn chuột 4 trên thân chuột để bắt đầu quá trình làm mới trang thanh toán.**
-2. [PUBG Recoil Assist](https://github.com/tgbiztank/AHKtank/blob/main/exe/PUBG_Weapon_Recoil_Reducer/PUBG_Weapon_Recoil_Reducer.exe?raw=true): hỗ trợ giảm giật trong trò chơi PUBG trên nền tảng Steam. Ứng dụng này có thể giúp người chơi giảm hiện tượng giật và tăng cường độ chính xác khi bắn súng trong trò chơi. **DPI 400 và Sensitivity 35**
+1. [VNPAY Teller Support](https://github.com/tgbiztank/AHKtank/raw/main/exe/VNPAY_Teller_Support/VNPAY_Teller_Support.exe) là một ứng dụng tự động hóa hỗ trợ nhân viên thu ngân khi sử dụng trang thanh toán của VNPAY.
+**Hướng dẫn chi tiết ở [đây](https://github.com/tgbiztank/AHKtank/tree/main/exe/VNPAY_Teller_Support)**
+2. [PUBG Recoil Assist](https://github.com/tgbiztank/AHKtank/blob/main/exe/PUBG_Weapon_Recoil_Reducer/PUBG_Weapon_Recoil_Reducer.exe?raw=true): hỗ trợ giảm giật trong trò chơi PUBG trên nền tảng Steam.
 **Hướng dẫn chi tiết ở [đây](https://github.com/tgbiztank/AHKtank/tree/main/exe/PUBG_Weapon_Recoil_Reducer)**
 3. ...
 

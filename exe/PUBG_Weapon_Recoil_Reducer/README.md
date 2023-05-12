@@ -26,3 +26,6 @@ Phần mềm này giúp giảm giật súng trong PUBG, và bạn có thể sử
 ## Đóng góp
 
 Nếu bạn muốn đóng góp cho dự án **PUBG Weapon Recoil Reducer**, hãy liên hệ với tác giả của dự án qua [trang GitHub](https://github.com/tgbiztank/AHKtank) để đóng góp ý tưởng, báo lỗi hoặc gửi yêu cầu trích dẫn. Chúng tôi rất hoan nghênh sự đóng góp của bạn để làm cho dự án ngày càng hoàn thiện hơn. Tác giả của dự án **PUBG Weapon Recoil Reducer** là tgbiztank. Bạn có thể liên hệ với tác giả qua trang [Facebook](https://www.fb.com/tgbiztank) để biết thêm chi tiết.
+> Bé tank đang tiếp tục phát triển thêm các tính năng mới nằm giúp người chơi PUBG có trải nghiệm tốt hơn
+
+![dog](https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif)

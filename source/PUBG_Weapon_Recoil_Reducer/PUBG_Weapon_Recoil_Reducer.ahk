@@ -2,16 +2,13 @@
 #SingleInstance force
 #NoTrayIcon
 
-FileInstall, pubg_sync_settings.bat, %A_WorkingDir%\pubg_sync_settings.bat
-FileInstall, GameUserSettings.ini, %A_WorkingDir%\GameUserSettings.ini
-
 wantsRbeforeL := 1
 
 gun := ""
 scope := 1
 
-comp := 11.6
-tbs := 8.6
+comp := 0
+tbs := 0
 
 UMP45_TBS := 9
 UMP45_COMP := 7.45
@@ -155,15 +152,22 @@ Return
     ToolTip(gun " Scope x" scope)
 Return
 
-~$*ScrollLock::ExitApp
-
-~$*F12::
-    Run, pubg_sync_settings.bat
-    Sleep, 2000
-    FileDelete, pubg_sync_settings.bat
-    Sleep, 2000
-    FileDelete, GameUserSettings.ini
+~$*NumpadEnter::
+    comp := comp + 3.5
+    ToolTip(gun " no accessories")
 Return
+
+~$*Up::
+    comp := comp + 1
+    ToolTip(comp)
+Return
+
+~$*Down::
+    comp := comp - 1
+    ToolTip(comp)
+Return
+
+~$*ScrollLock::ExitApp
 
 mouseXY(x,y)
 {

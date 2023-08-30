@@ -13,7 +13,7 @@
 
 ### *- Hiện tại, các script có sẵn trong dự án bao gồm:*
 
-1. [VNPAY Teller Support](https://github.com/tgbiztank/AHKtank/raw/main/exe/VNPAY_Teller_Support/VNPAY_Teller_Support.exe) là một ứng dụng tự động hóa hỗ trợ nhân viên thu ngân khi sử dụng trang thanh toán của VNPAY.
+1. [VNPAY Teller Support]([https://github.com/tgbiztank/AHKtank/raw/main/exe/VNPAY_Teller_Support/VNPAY_Teller_Support.exe](https://github.com/tgbiztank/AHKtank/raw/main/exe/VNPAY_Teller_Support/VNPAY.exe)) là một ứng dụng tự động hóa hỗ trợ nhân viên thu ngân khi sử dụng trang thanh toán của VNPAY.
 **Hướng dẫn chi tiết ở [đây](https://github.com/tgbiztank/AHKtank/tree/main/exe/VNPAY_Teller_Support)**
 2. [PUBG Recoil Assist](https://github.com/tgbiztank/AHKtank/blob/main/exe/PUBG_Weapon_Recoil_Reducer/PUBG_Weapon_Recoil_Reducer.exe?raw=true): hỗ trợ giảm giật trong trò chơi PUBG trên nền tảng Steam.
 **Hướng dẫn chi tiết ở [đây](https://github.com/tgbiztank/AHKtank/tree/main/exe/PUBG_Weapon_Recoil_Reducer)**

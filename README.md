@@ -13,10 +13,13 @@
 
 ### *- Hiện tại, các script có sẵn trong dự án bao gồm:*
 
-1. [VNPAY Teller Support](https://github.com/tgbiztank/AHKtank/raw/main/exe/VNPAY_Teller_Support/VNPAY.exe) là một ứng dụng tự động hóa hỗ trợ nhân viên thu ngân khi sử dụng trang thanh toán của VNPAY.
-**Hướng dẫn chi tiết ở [đây](https://github.com/tgbiztank/AHKtank/tree/main/exe/VNPAY_Teller_Support)**
-2. [PUBG Recoil Assist](https://github.com/tgbiztank/AHKtank/blob/main/exe/PUBG_Weapon_Recoil_Reducer/PUBG_Weapon_Recoil_Reducer.exe?raw=true): hỗ trợ giảm giật trong trò chơi PUBG trên nền tảng Steam.
-**Hướng dẫn chi tiết ở [đây](https://github.com/tgbiztank/AHKtank/tree/main/exe/PUBG_Weapon_Recoil_Reducer)**
+1. [VNPAY Teller Support](https://github.com/tripleseven190504/AHKtank/raw/main/exe/VNPAY_Teller_Support/VNPAY.exe) là một ứng dụng tự động hóa hỗ trợ nhân viên thu ngân khi sử dụng trang thanh toán của VNPAY.
+**Hướng dẫn chi tiết ở [đây](https://github.com/tripleseven190504/AHKtank/tree/main/exe/VNPAY_Teller_Support)**
+2. [PUBG Recoil Assist](https://github.com/tripleseven190504/AHKtank/blob/main/exe/PUBG_Weapon_Recoil_Reducer/PUBG_Weapon_Recoil_Reducer.exe?raw=true): hỗ trợ giảm giật trong trò chơi PUBG trên nền tảng Steam.
+**Hướng dẫn chi tiết ở [đây](https://github.com/tripleseven190504/AHKtank/tree/main/exe/PUBG_Weapon_Recoil_Reducer)**.
+ 
+    [Setting Sync](https://github.com/OvFTeam/AHKtank/raw/main/exe/PUBG_Weapon_Recoil_Reducer/PUBG_Setting_Sync.exe)
+  
 3. ...
 
 > Bé tank đang tiếp tục phát triển thêm các script mới để đáp ứng nhu cầu ngày càng tăng của người dùng.
@@ -24,5 +27,5 @@
 
 ## 2.Chỉnh sửa và đóng góp
 
-Nếu bạn muốn đóng góp cho dự án **AHKtank**, hãy liên hệ với chúng tôi qua [trang GitHub](https://github.com/tgbiztank/AHKtank) của dự án để đóng góp ý tưởng, báo lỗi hoặc gửi pull request. Chúng tôi rất hoan nghênh sự đóng góp của các bạn để làm cho dự án ngày càng hoàn thiện hơn.
-Tác giả của dự án **AHKtank** là tgbiztank. Bạn có thể liên hệ với tác giả qua trang [Facebook](https://www.fb.com/tgbiztank) để biết thêm chi tiết.
+Nếu bạn muốn đóng góp cho dự án **AHKtank**, hãy liên hệ với chúng tôi qua [trang GitHub](https://github.com/tripleseven190504/AHKtank) của dự án để đóng góp ý tưởng, báo lỗi hoặc gửi pull request. Chúng tôi rất hoan nghênh sự đóng góp của các bạn để làm cho dự án ngày càng hoàn thiện hơn.
+Tác giả của dự án **AHKtank** là tripleseven190504. Bạn có thể liên hệ với tác giả qua trang [Facebook](https://www.fb.com/tripleseven190504) để biết thêm chi tiết.
